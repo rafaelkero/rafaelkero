@@ -17,6 +17,7 @@ I'm currently learning a lot of things, working to someday reach FullStack Devel
 ## 💼 Skills
 
 ![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Illustrator-informational?style=flat&logo=Adobe-Illustrator&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
