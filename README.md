@@ -17,14 +17,15 @@ I'm currently learning a lot of things, working to someday reach FullStack Devel
 ## 💼 Skills
 
 ![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Illustrator-informational?style=flat&logo=Adobe-Illustrator&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-CSS-informational?style=flat&logo=css&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-JSON-informational?style=flat&logo=json&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
 <h3>And working on more! </h3>
 
 <details>
@@ -32,14 +33,13 @@ I'm currently learning a lot of things, working to someday reach FullStack Devel
 <summary>More Skills to Learn</summary>
   
 <br>
-  
+
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-GreenSock-informational?style=flat&logo=GreenSock&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=c-sharp&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-.NET-informational?style=flat&logo=.net&logoColor=white&color=4AB197)
